@@ -1,5 +1,12 @@
 # 🏥 Sistem Informasi Rumah Sakit (SIRS)
 
+# AGGOTA KELOMPOK
+  Al Fath Miftahurrizky HIkmawan (K1D024051)
+  Pandu Atini Estikandari (K1D024061)
+  Raichan Achmd Rabbani (K1D024064)
+  Wahyu Putra Ramadhan (K1D024072)
+  Nata Naila Ramadani (K1D024073)
+
 ## Deskripsi Project
 
 Sistem Informasi Rumah Sakit (SIRS) merupakan basis data yang dirancang untuk mengelola seluruh aktivitas operasional rumah sakit secara terintegrasi. Sistem ini mencakup pengelolaan data pasien, dokter, perawat, poli, ruang rawat inap, pendaftaran, rekam medis, farmasi, resep, hingga tagihan pembayaran.
