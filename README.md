@@ -27,6 +27,8 @@ Database ini dibangun menggunakan MySQL dan menerapkan konsep relasi antar tabel
 ---
 
 ## Cara Menjalankan Script
+video tutorial:
+https://drive.google.com/drive/folders/1rB4b3tdMUeXdCGR_0-E3brqzLaKsL12R
 
 ### 1. Persiapan
 
@@ -144,6 +146,8 @@ Database ini terdiri dari **11 entitas utama**, yaitu:
 - Obat
 - Resep
 - Tagihan
+
+
 
 ---
 
